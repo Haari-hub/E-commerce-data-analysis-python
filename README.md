@@ -22,7 +22,7 @@ The analysis covers various aspects of e-commerce business operations such as :
 
 ## Dataset
 
-
+[e commerce data for analysis.csv](https://github.com/user-attachments/files/20429601/e.commerce.data.for.analysis.csv)
 
 ## Features
 
